@@ -1,13 +1,19 @@
 ! Title: Instagram Anti-Doom Scrolling
 ! Description: This list filters out all Instagram web app content that leads to endless doom scrolling, such as the Feed, Search and Reels, helping you stay connected while avoiding the time-wasting scrolling.
 ! Homepage: https://github.com/liamperritt/timesaving-adblock-filters/blob/main/README.md#instagram-anti-doom-scrolling
-! Version: 2025.2.5
+! Version: 2026.2.1
 
-www.instagram.com##.x1nhvcw1.x1oa3qoh.x6s0dn4.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619 > .x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x78zum5.xjbqb8w.x9f619
-www.instagram.com##.x1ugxg0y.x7flfwp.x1e49onv.x16mfq2j.x103t36t.xmjrnx3.xhae0no.x19b80pe.xh8yej3.x1ykew4q.x1gryazu.x4n8cb0.xkrivgy.xdj266r.x1iyjqo2.xdt5ytf.x78zum5
-www.instagram.com##.xq70431.xfk6m8.xh8yej3.x5ve5x3.x13vifvy.x1rohswg.xixxii4.x1rife3k.x17qophe.xilefcg
+! Filters for mobile
+www.instagram.com##.xh8yej3.x1n2onr6.xaw8158.x1q0g3np.x78zum5.x9f619.x178xt8z.x13fuv20.x1yvgwvq.xaeubzz.x1o5hw5a > .xh8yej3.xaw8158.x78zum5 > div:nth-of-type(1)
 www.instagram.com##.xh8yej3.x1n2onr6.xaw8158.x1q0g3np.x78zum5.x9f619.x178xt8z.x13fuv20.x1yvgwvq.xaeubzz.x1o5hw5a > .xh8yej3.xaw8158.x78zum5 > div:nth-of-type(2)
 www.instagram.com##.xh8yej3.x1n2onr6.xaw8158.x1q0g3np.x78zum5.x9f619.x178xt8z.x13fuv20.x1yvgwvq.xaeubzz.x1o5hw5a > .xh8yej3.xaw8158.x78zum5 > div:nth-of-type(3)
+www.instagram.com##.xh8yej3.xl56j7k.x1q0g3np.x78zum5.x1qjc9v5
+www.instagram.com##.x1n327nk.xixxii4.x1o0tod.xtijo5x
+www.instagram.com##.x67bb7w.x13vifvy.x10l6tqk.xm80bdy.xu96u03
+www.instagram.com##.x1xmf6yo.xh8yej3.x1n2onr6.x10wlt62.x6ikm8r.x5yr21d.xdt5ytf.x78zum5.x1wp8tw6.x1ihp6rs.xr2y4jy.x1whfx0g.x1i5p2am.xgf5ljw
+www.instagram.com##.x127lhb5.xxkxylk
+www.instagram.com##.x1ugxg0y.x7flfwp.x1e49onv.x16mfq2j.x103t36t.xmjrnx3.xhae0no.x19b80pe.xh8yej3.x1ykew4q.x1gryazu.x4n8cb0.xkrivgy.xdj266r.x1iyjqo2.xdt5ytf.x78zum5
+www.instagram.com##.xq70431.xfk6m8.xh8yej3.x5ve5x3.x13vifvy.x1rohswg.xixxii4.x1rife3k.x17qophe.xilefcg
 
 ! Desktop-specific filters
 www.instagram.com##.xh8yej3.x1iyjqo2 > div > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x
